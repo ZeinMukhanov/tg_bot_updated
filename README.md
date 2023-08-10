@@ -7,6 +7,7 @@ Fill out the database information in the code itself.
 Add the username and secret key for SIPUNI in sipuni.go
 
 Terminal:
+
 go build .
 
 ./tg_bot_updated

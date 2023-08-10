@@ -4,6 +4,11 @@ To run the code:
 
 Fill out the database information in the code itself.
 
+	password = "YOUR_PASSWORD"
+	dbname   = "YOUR_DBNAME"
+  botToken := "YOUR_BOTTOKEN"
+ 
+
 Add the username and secret key for SIPUNI in sipuni.go
 
 Terminal:
